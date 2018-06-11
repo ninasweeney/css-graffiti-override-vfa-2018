@@ -23,7 +23,9 @@
   display:none;
 }
 
-body #wall .parent
+body #wall .parent>#tag-7.slick:only-of-type{
+  display:none;
+}
 
 
 
