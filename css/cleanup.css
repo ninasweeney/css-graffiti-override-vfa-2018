@@ -23,7 +23,7 @@
   display:none;
 }
 
-body #wall .parent > #tag-7.slick:only-of-type{
+body #wall .parent > #tag-7.slick:{
   display:none;
 }
 
