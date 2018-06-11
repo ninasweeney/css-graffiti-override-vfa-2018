@@ -23,7 +23,7 @@
   display:none;
 }
 
-body #wall .parent > #tag-7.slick:last-child{
+body #wall .parent>#tag-7.slick{
   display:none;
 }
 
